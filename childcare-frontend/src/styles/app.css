@@ -100,7 +100,7 @@ a:hover { color: #3f8fce; }
   box-shadow: var(--cc-shadow);
 }
 .table thead th{
-  background: #f0f7ff;
+  background: #08e2d0;
   border-bottom: none;
   color:#114b96;
   font-weight:700;
